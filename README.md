@@ -1,0 +1,2 @@
+# Collectorcoin
+Collectorcoin Project Information
